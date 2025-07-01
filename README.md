@@ -9,11 +9,7 @@ A simple and responsive calculator built using **HTML**, **CSS**, and **JavaScri
 
 ---
 
-## 📸 Preview
 
-![Calculator Preview](https://user-images.githubusercontent.com/your-image-link.png) <!-- Optional: Replace with an actual screenshot URL -->
-
----
 
 ## ✨ Features
 
